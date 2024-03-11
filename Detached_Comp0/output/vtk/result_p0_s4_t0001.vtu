@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<VTKFile type="UnstructuredGrid" version="0.1" byte_order="LittleEndian">
+  <UnstructuredGrid>
+    <Piece NumberOfPoints="8" NumberOfCells="6">
+      <Points>
+        <DataArray type="Float32" NumberOfComponents="3" format="binary">
+YAAAAArXo72kcN0/AACgQF+0Z72kcN0/lDCeQPM0IqOkcN0/pHCdQArXoz2kcN0/AACgQPM0IqOkcN0/XI+iQF+0Z72kcN0/bM+hQF+0Zz2kcN0/bM+hQF+0Zz2kcN0/lDCeQA==
+        </DataArray>
+      </Points>
+      <Cells>
+        <DataArray type="Int32" Name="connectivity" format="binary">
+SAAAAAAAAAABAAAAAgAAAAIAAAADAAAAAAAAAAAAAAADAAAABAAAAAQAAAAFAAAAAAAAAAYAAAAEAAAAAwAAAAcAAAADAAAAAgAAAA==
+        </DataArray>
+        <DataArray type="Int32" Name="offsets" format="binary">
+GAAAAAMAAAAGAAAACQAAAAwAAAAPAAAAEgAAAA==
+        </DataArray>
+        <DataArray type="Int8" Name="types" format="binary">
+BgAAAAUFBQUFBQ==
+        </DataArray>
+      </Cells>
+      <PointData>
+        <DataArray type="Float32" Name="ca_cyt" NumberOfComponents="1" format="binary">
+IAAAAAIOQjXqfgc1C/seNUNhQjXuEx816MQGNZmOCDWiOwc1
+        </DataArray>
+        <DataArray type="Float32" Name="clb" NumberOfComponents="1" format="binary">
+IAAAAASfHDmXoBw5GqAcOQKfHDkZoBw5oKAcOY+gHDmcoBw5
+        </DataArray>
+        <DataArray type="Float32" Name="ip3" NumberOfComponents="1" format="binary">
+IAAAAJTTmDNhB4UzTEyMMwb9mDOTVowzqquEM9x5hTPM3YQz
+        </DataArray>
+        <DataArray type="Float32" Name="m" NumberOfComponents="1" format="binary">
+IAAAAEjz5zZI8+c2SPPnNkjz5zZI8+c2SPPnNkjz5zZI8+c2
+        </DataArray>
+      </PointData>
+    </Piece>
+  </UnstructuredGrid>
+</VTKFile>
